@@ -1,22 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Vaishnavi! 👋</h1>
 
-## Introduction
-
-Hello! I am an experienced developer and a 4th-year Computer Science Engineering (CSE) student currently interning at Amazon India Corp. I have a strong focus on efficiency and skill. I have also honed my problem-solving skills through regular practice on platforms like LeetCode, earning six LeetCode badges.
+<p align="center">Hello! I am an experienced developer and a 4th-year Computer Science Engineering (CSE) student currently interning at Amazon India Corp. I have a strong focus on efficiency and skill, with a passion for solving real-world problems using technology.</p>
 
 ## Skills and Expertise
 
-- I have good knowledge on prograaming languages like C, C++, Java, Python.
-- I have basic knowledge on Machine Learning and Artificial Intelligence.
-- AWS Lambda and ECS tasks
-- DynamoDB tables and CRUD operations
-- Problem-solving on platforms like LeetCode, HyperRank, CodeChef
-- Web development using MERN stack (MongoDB, Express.js, HTML, JavaScript, Node.js)
-- Collaboration and teamwork
-- Leadership and guiding others towards common goals
+- AWS Lambda and ECS tasks ☁️
+- DynamoDB tables and CRUD operations 💾
+- Problem-solving on platforms like LeetCode, HyperRank, CodeChef 💡
+- Web development using MERN stack (MongoDB, Express.js, HTML, JavaScript, Node.js) 🌐
+- Collaboration and teamwork 👥
+- Leadership and guiding others towards common goals 🚀
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 ## Interests and Passions
 
-I am passionate about leveraging technology to solve real-world problems. I constantly strive to expand my knowledge in the field of computer science and explore innovative solutions. Some of my interests include JavaSpring and AWS.
+I am passionate about leveraging technology to solve real-world problems and constantly expanding my knowledge in the field of computer science. Some of my specific interests include JavaSpring and AWS.
 
-Thank you for visiting my GitHub profile!
+Thank you for visiting my GitHub profile! Have a great day! 😄
